@@ -12,6 +12,11 @@
 <form method="POST" action="connectivity-sign-up.php">
 <td>Name</td><td> <input type="text" name="name"></td>
 </tr>
+
+<tr>
+<td>Last Name</td> <input type="text" name="last"></td>
+</tr>
+
 <tr>
 <td>Email</td><td> <input type="text" name="email"></td>
 </tr>
