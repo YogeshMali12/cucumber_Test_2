@@ -14,7 +14,7 @@
 </tr>
 
 <tr>
-<td>LastName</td> <input type="text" name="last"></td>
+<td>Last Name</td> <input type="text" name="last"></td>
 </tr>
 
 <tr>
